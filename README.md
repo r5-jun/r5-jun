@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r5-jun
 - 👀 I’m interested in Data Analysis, Data Science and Computer Vision 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about NER, Diffusion model and basic statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. plz send me e-mail: hojuni900gmail.com
 
